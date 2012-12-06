@@ -27,7 +27,7 @@ $blueDark:              #0064cd !default;
 $green:                 #46a546 !default;
 $red:                   #9d261d !default;
 $yellow:                #ffc40d !default;
-$orange:                #FFA84C !default;
+$orange:                #fFA84C !default;
 $pink:                  #c3325f !default;
 $purple:                #7a43b6 !default;
 
@@ -40,7 +40,7 @@ $textColor:             $grayDark !default;
 
 // Links
 // -------------------------
-$linkColor:             #0FB4E7 !default;
+$linkColor:             #0fb4e7 !default;
 $linkColorHover:        darken($linkColor, 15%) !default;
 
 
@@ -90,20 +90,20 @@ $btnBackground:                     $white !default;
 $btnBackgroundHighlight:            darken($btnBackground, 7%) !default;
 $btnBorder:                         darken($btnBackground, 11) !default;
 
-$btnPrimaryBackground:              #3FCAF4 !default;
+$btnPrimaryBackground:              #3fcaf4 !default;
 $btnPrimaryBackgroundHighlight:     $linkColor !default;
 
 $btnInfoBackground:                 #3c8bf3 !default;
 $btnInfoBackgroundHighlight:        #0f6ce7 !default;
 
-$btnSuccessBackground:              #BACD29 !default;
-$btnSuccessBackgroundHighlight:     #A1BD17 !default;
+$btnSuccessBackground:              #bacd29 !default;
+$btnSuccessBackgroundHighlight:     #a1bd17 !default;
 
-$btnWarningBackground:              #FFA84C !default;
-$btnWarningBackgroundHighlight:     #FF7B0D !default;
+$btnWarningBackground:              #fFA84C !default;
+$btnWarningBackgroundHighlight:     #fF7B0D !default;
 
-$btnDangerBackground:               #FF3019 !default;
-$btnDangerBackgroundHighlight:      #CF0404 !default;
+$btnDangerBackground:               #fF3019 !default;
+$btnDangerBackgroundHighlight:      #cF0404 !default;
 
 $btnInverseBackground:              #333 !default;
 $btnInverseBackgroundHighlight:     #000 !default;
@@ -236,15 +236,15 @@ $warningText:             #c09853 !default;
 $warningBackground:       #fcf8e3 !default;
 $warningBorder:           darken(adjust-hue($warningBackground, -10), 3%) !default;
 
-$errorText:               #FF3019 !default;
+$errorText:               #fF3019 !default;
 $errorBackground:         #f2dede !default;
 $errorBorder:             darken(adjust-hue($errorBackground, -10), 3%) !default;
 
-$successText:             #BACD29 !default;
+$successText:             #bACD29 !default;
 $successBackground:       #dff0d8 !default;
 $successBorder:           darken(adjust-hue($successBackground, -10), 5%) !default;
 
-$infoText:                #3FCAF4 !default;
+$infoText:                #3fcaf4 !default;
 $infoBackground:          #d9edf7 !default;
 $infoBorder:              darken(adjust-hue($infoBackground, -10), 7%) !default;
 
