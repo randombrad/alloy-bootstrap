@@ -99,11 +99,11 @@ $btnInfoBackgroundHighlight:        #0f6ce7 !default;
 $btnSuccessBackground:              #bacd29 !default;
 $btnSuccessBackgroundHighlight:     #a1bd17 !default;
 
-$btnWarningBackground:              #fFA84C !default;
-$btnWarningBackgroundHighlight:     #fF7B0D !default;
+$btnWarningBackground:              #ffa84c !default;
+$btnWarningBackgroundHighlight:     #ff7b0d !default;
 
-$btnDangerBackground:               #fF3019 !default;
-$btnDangerBackgroundHighlight:      #cF0404 !default;
+$btnDangerBackground:               #ff3019 !default;
+$btnDangerBackgroundHighlight:      #cf0404 !default;
 
 $btnInverseBackground:              #333 !default;
 $btnInverseBackgroundHighlight:     #000 !default;
@@ -223,6 +223,25 @@ $paginationBorder:                    #ddd !default;
 $paginationActiveBackground:          #f5f5f5 !default;
 
 
+// Progressbar
+// -------------------------
+$progressBackground: #f9f9f9 !default;
+$progressBackgroundHighlight: #f5f5f5 !default;
+
+$progressbarBackground: #0fb4f4 !default;
+$progressbarBackgroundHighlight: #3fcaf4 !default;
+
+$progressbarDangerBackground: #ff3019 !default;
+$progressbarDangerBackgroundHighlight: #cf0404 !default;
+
+$progressbarInfoBackground: #5bc0de !default;
+$progressbarInfoBackgroundHighlight: #339bb9 !default;
+
+$progressbarSuccessBackground: #bacd29 !default;
+$progressbarSuccessBackgroundHighlight: #a1bd17 !default;
+
+$progressbarStripedColor: #149bdf !default;
+
 // Hero unit
 // -------------------------
 $heroUnitBackground:              $grayLighter !default;
@@ -236,11 +255,11 @@ $warningText:             #c09853 !default;
 $warningBackground:       #fcf8e3 !default;
 $warningBorder:           darken(adjust-hue($warningBackground, -10), 3%) !default;
 
-$errorText:               #fF3019 !default;
+$errorText:               #ff3019 !default;
 $errorBackground:         #f2dede !default;
 $errorBorder:             darken(adjust-hue($errorBackground, -10), 3%) !default;
 
-$successText:             #bACD29 !default;
+$successText:             #bacd29 !default;
 $successBackground:       #dff0d8 !default;
 $successBorder:           darken(adjust-hue($successBackground, -10), 5%) !default;
 
