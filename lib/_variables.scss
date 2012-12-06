@@ -16,6 +16,8 @@ $gray:                  #555 !default;
 $grayLight:             #666 !default;
 $grayLighter:           #eee !default;
 $white:                 #fff !default;
+$whiteDark:             darken($white, 8%);
+$whiteDarker:           darken($white, 13%);
 
 
 // Accent colors
