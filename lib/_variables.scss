@@ -13,7 +13,7 @@ $black:                 #000 !default;
 $grayDarker:            #222 !default;
 $grayDark:              #333 !default;
 $gray:                  #555 !default;
-$grayLight:             #999 !default;
+$grayLight:             #666 !default;
 $grayLighter:           #eee !default;
 $white:                 #fff !default;
 
@@ -25,7 +25,7 @@ $blueDark:              #0064cd !default;
 $green:                 #46a546 !default;
 $red:                   #9d261d !default;
 $yellow:                #ffc40d !default;
-$orange:                #f89406 !default;
+$orange:                #FFA84C !default;
 $pink:                  #c3325f !default;
 $purple:                #7a43b6 !default;
 
@@ -234,15 +234,15 @@ $warningText:             #c09853 !default;
 $warningBackground:       #fcf8e3 !default;
 $warningBorder:           darken(adjust-hue($warningBackground, -10), 3%) !default;
 
-$errorText:               #b94a48 !default;
+$errorText:               #FF3019 !default;
 $errorBackground:         #f2dede !default;
 $errorBorder:             darken(adjust-hue($errorBackground, -10), 3%) !default;
 
-$successText:             #468847 !default;
+$successText:             #BACD29 !default;
 $successBackground:       #dff0d8 !default;
 $successBorder:           darken(adjust-hue($successBackground, -10), 5%) !default;
 
-$infoText:                #3a87ad !default;
+$infoText:                #3FCAF4 !default;
 $infoBackground:          #d9edf7 !default;
 $infoBorder:              darken(adjust-hue($infoBackground, -10), 7%) !default;
 
